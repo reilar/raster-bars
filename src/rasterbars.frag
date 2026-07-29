@@ -1,8 +1,8 @@
 //---------------------------------------------------
 // Dancing rasterbars
 // 
-// v1.0  2021-04-22  Initial version by Reine Larsson
-// v1.1  2021-09-25  Updated at Impulse Internal #22
+// 2021-04-22 - Initial version
+// 2021-09-25 - Updated at Impulse Internal #22
 //---------------------------------------------------
 
 uniform vec2 iResolution;
